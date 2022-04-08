@@ -30,3 +30,11 @@ Can Encrypt/Decrypt Passwords also has more features NOTE:Made in 5 mins so not 
 ## Appendix
 
 Java Script Libraries crypto and crypto-js Are used
+## Usage
+
+```javascript
+npm i
+```
+```batch
+node .
+```
